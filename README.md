@@ -5,7 +5,7 @@ This is just heroku support source
 Main source is here [main source](https://github.com/sandy1709/catuserbot) fork and give star to that repo 
 
 ## Deploy
-
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=
 - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Iamjamelsingh/nekopack)
 fork this repo and [main repo](https://github.com/sandy1709/catuserbot) and click on deploy
 
